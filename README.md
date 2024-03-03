@@ -46,7 +46,7 @@ I spill the beans on React antics, TypeScript shenanigans, Golang adventures, an
 ---
 #### :vulcan_salute: Let's Connect and Code:
 
-I'm all about new challenges and collaborations. If you're into coding adventures and want someone with a fresh take on projects, hit me up! Shoot me a message on [LinkedIn](https://linkedin.com/in/phanorcoll) – let’s make some code magic happen! 🚀
+I'm all about new challenges and collaborations. If you're into coding adventures and want someone with a fresh take on projects, hit me up! Shoot me a message on any of my social networks – let’s make some code magic happen! 🚀
 
 
 
@@ -58,7 +58,6 @@ I'm all about new challenges and collaborations. If you're into coding adventure
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 
 <!--
 **phanorcoll/phanorcoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
