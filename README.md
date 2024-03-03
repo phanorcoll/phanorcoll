@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBucGJxYWwxZmxucHY3andtdG14bnVwN3ZiM21udzB2MmFkYWNveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="100"/>
+  <img src="./img/git-cover.jpeg" alt="phanorcoll" title="phanorcoll"/>
 </div>
 
 ---
